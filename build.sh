@@ -44,7 +44,7 @@ cd binwalk
 sudo ./deps.sh --yes
 reset
 sudo python3 ./setup.py install
-sudo pip3 install git+https://github.com/ahupp/python-magic
+sudo pip3 install python-magic
 sudo pip3 install git+https://github.com/sviehb/jefferson
 cd ..
 
